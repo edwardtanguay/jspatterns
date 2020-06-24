@@ -1,0 +1,26 @@
+{
+  "name": "jspatterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callback.js",
+  "scripts": {
+    "start": "node -r esm es6modules.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardtanguay/jspatterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwardtanguay/jspatterns/issues"
+  },
+  "homepage": "https://github.com/edwardtanguay/jspatterns#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "moment": "^2.27.0"
+  }
+}

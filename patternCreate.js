@@ -1,8 +1,15 @@
+let carInstance = null;
+
 class Car {
 	constructor(doors, engine, color) {
-		this.doors = doors;
-		this.engine = engine;
-		this.color = color;
+		if (!carInstance) {
+			this.doors = doors;
+			this.engine = engine;
+			this.color = color;
+			carInstance = this;
+		} else {
+			return carInstance;
+		}
 	}
 }
 
