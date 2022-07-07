@@ -25,7 +25,7 @@
     "country-data": "0.0.31",
     "esm": "^3.2.25",
     "express": "^4.17.1",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "nodemon": "^2.0.4",
     "string.prototype.padstart": "^3.1.0",
     "world-countries-capitals": "^3.0.2",
