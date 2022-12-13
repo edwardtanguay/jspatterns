@@ -24,7 +24,7 @@
     "an-array-of-german-words": "^1.2.0",
     "country-data": "0.0.31",
     "esm": "^3.2.25",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "moment": "^2.27.0",
     "nodemon": "^2.0.4",
     "string.prototype.padstart": "^3.1.0",
